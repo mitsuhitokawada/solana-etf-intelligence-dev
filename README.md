@@ -2,6 +2,8 @@
 
 A research prototype connecting US Solana ETF flows, SOL price returns and onchain activity, with live data exposed to ChatGPT through a hosted MCP server and Plugin Extension.
 
+Built with ChatGPT Sites and Plugin Extensions, with a hosted MCP server that lets ChatGPT retrieve and analyze live Solana market data.
+
 ## Features
 - SOL current price and 90-day daily history from CoinGecko; 7/30/90-day charts.
 - US Solana ETF net flows and net assets from SoSoValue; daily flow chart.

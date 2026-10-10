@@ -10,6 +10,8 @@ A hosted MCP server exposes the same live data to ChatGPT through an installed P
 
 The original Colosseum submission is a simulated-data prototype. This separate development version adds live sources and descriptive correlation without modifying that demo.
 
+Built with ChatGPT Sites and Plugin Extensions, with a hosted MCP server that lets ChatGPT retrieve and analyze live Solana market data.
+
 ## Value proposition
 ETF dashboards show institutional flows; onchain dashboards show activity. We connect the two and expose the observations to conversational analysis, with explicit dates, definitions and limits. Initial users are analysts, research teams and Solana investors. A possible business model is a research subscription and an MCP data service; willingness to pay is not yet validated.
 
