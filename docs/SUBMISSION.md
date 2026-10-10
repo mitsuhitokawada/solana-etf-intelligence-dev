@@ -27,14 +27,14 @@ DEX volume covers all tokens across tracked Solana DEXs. It is not net capital i
 
 ## Development judge demo
 https://solana-etf-intelligence-dev.tinybee3.chatgpt.site/review
-Currently owner-private. This URL cannot yet serve as an externally accessible judge demo. Do not claim the original video demonstrates these new features.
+Public judge demo. Unauthenticated page access verified on 2026-10-10. Do not claim the original video demonstrates these new features.
 
 ## Required before submission
 - Confirm Colosseum submission country is Japan.
 - Confirm applicant residency/KYC eligibility.
 - Confirm read-only analytics with direct Solana RPC qualifies for “runs on Solana”; do not assert that adding RPC alone guarantees eligibility.
 - Publish current development source in a separate GitHub repository; do not reuse the original source link as evidence for this version.
-- Confirm provider terms before public data redistribution, then arrange judge access.
+- Review provider redistribution terms for any use beyond this prototype. Judge page access has been made public.
 - Record the current English demo/pitch or provide updated pitch materials.
 - Actual side-track form submission has not been performed.
 
