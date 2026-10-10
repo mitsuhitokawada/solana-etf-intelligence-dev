@@ -1,6 +1,6 @@
 import { getPrices } from '../../lib/prices';
 import { panelHtml } from '../../lib/panel';
-const uri='ui://etf-intelligence/market-panel-v7.html';
+const uri='ui://etf-intelligence/market-panel-v8.html';
 const tool={name:'get_market_prices',title:'Solana ETF Intelligence',description:'Open the Solana ETF Intelligence panel without fetching data. The user can request prices from inside the panel. Includes SOL prices, US Solana ETF flows and Solana DEX volume. Do not infer causation. Flag stale data.',inputSchema:{type:'object',properties:{},additionalProperties:false},annotations:{readOnlyHint:true,destructiveHint:false,idempotentHint:true,openWorldHint:true},_meta:{ui:{resourceUri:uri},'openai/outputTemplate':uri,'openai/widgetAccessible':true,'openai/ui':{entrypoints:[{type:'thread'},{type:'global'}]}}};
 export async function POST(request:Request){
  let message: {jsonrpc?:string;id?:string|number;method?:string;params?:{protocolVersion?:string;uri?:string;name?:string;arguments?:unknown}};
